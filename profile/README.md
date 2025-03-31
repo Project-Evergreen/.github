@@ -1,2 +1,3 @@
 # How to get started...
-Project code is can be accessed through the `nelson` repository. 
+Project code is can be accessed through the [`nelson`](./nelson) repository. 
+
